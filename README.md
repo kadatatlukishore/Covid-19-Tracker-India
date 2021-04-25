@@ -7,6 +7,7 @@
 
 ### Demo Link: 
 - https://covid19-india-tracker-and-news.herokuapp.com/
+![Alt Text](https://github.com/kadatatlukishore/Covid-19-Tracker-India/blob/main/assets/covid19Tracker-gif.gif)
 ### Data Sources and References:
 - API :  https://api.covid19india.org/data.json
 - Dash:  https://dash.plotly.com/
