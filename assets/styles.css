@@ -1,0 +1,7 @@
+.nav-pills .nav-link.active {
+    color: #fff;
+    background-color: black;
+}
+*{
+  font-family: sans-serif;
+}
