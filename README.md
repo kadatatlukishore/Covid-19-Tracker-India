@@ -1,6 +1,7 @@
-# Covid-19-Tracker-India
+# Covid-19-Tracker-India 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
-## Covid Help Resources
+## Covid Help Resources   
 
 - http://nixxer.in/covid
 - https://kadatatlukishore.github.io/covid-resources.html (More Resources Links)
